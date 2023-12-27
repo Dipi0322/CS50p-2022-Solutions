@@ -12,19 +12,21 @@
 >Check the [Academic Honesty](https://cs50.harvard.edu/python/2022/honesty/) policy of the course.
 
 
-### [Week 0: Functions, Variables](https://cs50.harvard.edu/python/2022/psets/0/)
-[Problem Set 0](https://github.com/Dipi0322/CS50p-2022-Solutions/tree/main/pset%200)
+### [👾 Week 0: Functions, Variables](https://cs50.harvard.edu/python/2022/psets/0/)
+[🖇️ Problem Set 0](https://github.com/Dipi0322/CS50p-2022-Solutions/tree/main/pset%200)
 
-### [Week 1: Conditionals](https://cs50.harvard.edu/python/2022/psets/1/)
+### [👾 Week 1: Conditionals](https://cs50.harvard.edu/python/2022/psets/1/)
+[🖇️ Problem Set 1](https://github.com/Dipi0322/CS50p-2022-Solutions/tree/main/pset%201)
 
+### [👾 Week 2: Loops](https://cs50.harvard.edu/python/2022/psets/2/)
+[🖇️ Problem Set 2](https://github.com/Dipi0322/CS50p-2022-Solutions/tree/main/pset%202)
 
-### [Week 2: Loops](https://cs50.harvard.edu/python/2022/psets/2/)
+### [👾 Week 3: Exceptions](https://cs50.harvard.edu/python/2022/psets/3/)
+[🖇️ Problem Set 3](https://github.com/Dipi0322/CS50p-2022-Solutions/tree/main/pset%203)
 
-### [Week 3: Exceptions](https://cs50.harvard.edu/python/2022/psets/3/)
+### [👾 Week 4: Libraries](https://cs50.harvard.edu/python/2022/psets/4/)
+[🖇️ Problem Set 4](https://github.com/Dipi0322/CS50p-2022-Solutions/tree/main/pset%204)
 
+### [👾 Week 5: Unit Tests](https://cs50.harvard.edu/python/2022/psets/5/)
 
-### [Week 4: Libraries](https://cs50.harvard.edu/python/2022/psets/4/)
-
-### [Week 5: Unit Tests](https://cs50.harvard.edu/python/2022/psets/5/)
-
-### [Week 6: File I/O](https://cs50.harvard.edu/python/2022/psets/6/)
+### [👾 Week 6: File I/O](https://cs50.harvard.edu/python/2022/psets/6/)
