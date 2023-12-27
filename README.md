@@ -13,7 +13,7 @@
 
 
 ### [Week 0: Functions, Variables](https://cs50.harvard.edu/python/2022/psets/0/)
-[Problem Set 0](/pset_0)
+[Problem Set 0](/pset&nbsp0)
 
 ### [Week 1: Conditionals](https://cs50.harvard.edu/python/2022/psets/1/)
 
